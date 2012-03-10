@@ -1,7 +1,7 @@
 %Compras em um mercado (completamente simulado)
 @RELATION compras
 
-@attribute ovo de páscoa {sim, não}
+@attribute ovo_de_páscoa {sim, não}
 @attribute peru {sim, não}
 @attribute sorvete {sim, não}
 @attribute colchonete {sim, não}
@@ -14,7 +14,7 @@
 @attribute mes {janeiro, fevereiro, março, abril, maio, junho, julho, agosto setembro, outubro, novembro, dezembro}
 
 @data
-não, não,	não,sim,	sim,sim,	não,não, 	não,não, 	janeiro
+não,não,	não,sim,	sim,sim,	não,não, 	não,não, 	janeiro
 sim,não,	não,não,	não,sim,	sim,sim,	sim,não, 	abril
 não,sim,	não,não,	sim,sim,	sim,sim,	sim,não, 	dezembro
 não,não,	não,não,	sim,sim,	sim,sim,	sim,sim,	dezembro
@@ -39,7 +39,7 @@ não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	maio
 não,não,	sim,não,	não,sim,	sim,sim,	não,sim,	junho
 não,não,	não,não,	não,sim,	sim,sim,	não,não, 	junho
 não,não,	sim,não,	não,sim,	sim,sim,	não,não, 	junho
-não,não,	não,não,	não,sim,	sim,sim,	sim,ão, 	julho
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	julho
 não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	julho
 não,não,	não,não,	não,não,	sim,sim,	não,não, 	agosto
 não,não,	não,não,	não,não,	sim,sim,	não,não, 	agosto
