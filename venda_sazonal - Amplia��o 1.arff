@@ -1,0 +1,50 @@
+%Compras em um mercado (completamente simulado)
+@RELATION compras
+
+@attribute ovo de páscoa {sim, não}
+@attribute peru {sim, não}
+@attribute sorvete {sim, não}
+@attribute colchonete {sim, não}
+@attribute cerveja {sim, não}
+@attribute fósforo {sim, não}
+@attribute arroz {sim, não}
+@attribute feijão {sim, não}
+@attribute macarrão {sim, não}
+@attribute bacalhau {sim, não}
+@attribute mes {janeiro, fevereiro, março, abril, maio, junho, julho, agosto setembro, outubro, novembro, dezembro}
+
+@data
+não, não,	não,sim,	sim,sim,	não,não, 	não,não, 	janeiro
+sim,não,	não,não,	não,sim,	sim,sim,	sim,não, 	abril
+não,sim,	não,não,	sim,sim,	sim,sim,	sim,não, 	dezembro
+não,não,	não,não,	sim,sim,	sim,sim,	sim,sim,	dezembro
+não,sim,	não,não,	sim,sim,	sim,sim,	sim,não, 	dezembro
+não,sim,	não,não,	sim,sim,	sim,sim,	sim,sim,	dezembro
+não,não,	não,não,	sim,sim,	sim,sim,	sim,sim,	dezembro
+sim,não,	não,não,	sim,sim,	sim,sim,	sim,não, 	abril
+sim,não,	não,não,	sim,sim,	sim,sim,	sim,não, 	abril
+sim,não,	não,não,	sim,sim,	sim,sim,	sim,sim,	abril
+sim,não,	não,não,	sim,sim,	sim,sim,	sim,não, 	abril
+não,não,	não,não,	sim,sim,	não,não, 	sim,não, 	fevereiro
+não,não,	não,não,	sim,sim,	não,não, 	sim,não, 	fevereiro
+não,não,	não,não,	sim,sim,	não,não, 	sim,não, 	fevereiro
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	março
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	março
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	março
+não,não,	não,sim,	não,sim,	sim,sim,	sim,não, 	janeiro
+não,não,	não,sim,	não,sim,	sim,sim,	sim,não, 	janeiro
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	maio
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	maio
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	maio
+não,não,	sim,não,	não,sim,	sim,sim,	não,sim,	junho
+não,não,	não,não,	não,sim,	sim,sim,	não,não, 	junho
+não,não,	sim,não,	não,sim,	sim,sim,	não,não, 	junho
+não,não,	não,não,	não,sim,	sim,sim,	sim,ão, 	julho
+não,não,	não,não,	não,sim,	sim,sim,	sim,não, 	julho
+não,não,	não,não,	não,não,	sim,sim,	não,não, 	agosto
+não,não,	não,não,	não,não,	sim,sim,	não,não, 	agosto
+não,não,	sim,sim,	sim,não,	sim,sim,	não,não, 	setembro
+não,não,	sim,sim,	sim,não,	sim,sim,	não,não, 	setembro
+não,não,	sim,sim,	sim,não,	sim,sim,	não,não, 	outubro
+não,não,	sim,sim,	sim,não,	sim,sim,	não,não, 	novembro
+não,não,	sim,sim,	sim,não,	sim,sim,	não,sim,	novembro
