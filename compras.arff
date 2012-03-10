@@ -1,0 +1,20 @@
+%Compras em um mercado (completamente simulado)
+@RELATION compras
+
+@attribute cerveja {sim, não}
+@attribute sopa {sim, não}
+@attribute sorvete {sim, não}
+@attribute capuccino {sim, não}
+@attribute pão {sim, não}
+@attribute mes {janeiro, fevereiro, junho, julho}
+
+@data
+sim,não,sim,não,não,janeiro 
+sim,não,sim,não,sim,fevereiro
+sim,não,não,não,sim,fevereiro
+não,sim,não,sim,não,junho
+não,não,não,sim,sim,julho
+sim,não,sim,sim,não,fevereiro
+não,sim,não,não,não,junho
+sim,não,não,sim,não,janeiro
+não,não,sim,não,sim,janeiro
